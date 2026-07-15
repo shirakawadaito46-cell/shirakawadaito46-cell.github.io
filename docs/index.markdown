@@ -8,4 +8,4 @@ title: "ソフトウェア工学 2026"
 
 # ソフトウェア工学 2026
 
-git/github演習
+[ソフトウェア工学まとめ](softwareEng2026.html)
